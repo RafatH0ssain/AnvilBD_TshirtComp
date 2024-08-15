@@ -126,7 +126,7 @@ CSS STRUCTURE:
     --light-color        : #fff;
     --grey-color         : #dbdbdb;
     --light-grey-color   : #fafafa;
-    --primary-color      : #6995B1;
+    --primary-color      : rgba(64,188,236,1);
     --light-primary-color   : #eef1f3;
 }
 
